@@ -16,7 +16,7 @@ I also uploaded the original JS file. It is open and you can change it as per yo
 Sample Code
 
 =================================================================================================
-
+[code]
 <script src="../Style Library/jquery.min.js"></script>
 <script src="../Style Library/SPPeoplePicker.js"></script>
 <script type="text/javascript">
@@ -50,5 +50,5 @@ Sample Code
 	</tr>
 
 </table>
-
+[/code]
 ==============================================================================================
