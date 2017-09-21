@@ -1,3 +1,6 @@
+*** I am currently working on front end stack mostly these days, and I am not finding much time to maintain this project. Please feel free to download this and debug through the code. Thanks to everyone***
+=====================================================================
+
 SPClientPeoplePickerPlugin
 ==========================
 
